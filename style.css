@@ -8,7 +8,7 @@ html, body {
     margin: 100px auto;
     height: 200px;
     width: 850px;
-    background-color: white;
+    background-color: bisque;
     display: grid;
 }
 
@@ -23,7 +23,7 @@ html, body {
     margin: -50px auto;
     height: 80px;
     width: 850px;
-    background-color: brown;
+    background-color: bisque;
     display: flex;
 }
 
