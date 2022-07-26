@@ -53,3 +53,23 @@ blue.addEventListener('click', function(){
 green.addEventListener('click', function(){
     paragraph.style.color = 'green'
 })
+
+// font style
+var normal = document.getElementById('normal');
+var cursive = document.getElementById('cursive');
+
+var light = document.getElementById('light');
+var bold = document.getElementById('bold');
+
+normal.addEventListener('click', function(){
+    paragraph.style.fontStyle = "normal";
+})
+cursive.addEventListener('click', function(){
+    paragraph.style.fontStyle = "italic";
+})
+light.addEventListener('click', function(){
+    paragraph.style.fontWeight = "lighter";
+})
+bold.addEventListener('click', function(){
+    paragraph.style.fontWeight = "bold";
+})
