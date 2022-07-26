@@ -3,3 +3,11 @@ html, body {
     margin: 0 auto;
     background-color: brown;
 }
+
+#container {
+    margin: 100px auto;
+    height: 300px;
+    width: 800px;
+    background-color: white;
+    display: grid;
+}
