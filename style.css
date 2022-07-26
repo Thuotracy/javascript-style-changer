@@ -55,3 +55,44 @@ html, body {
     text-align: center;
     font-weight: bold;
 }
+
+/*Font Color*/
+#fontcolor {
+    align-self: center;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+}
+#fontcolor p {
+    font-weight: bold;
+    padding: 0;
+    padding-bottom: 5px;
+    margin: 0;
+}
+
+#colors {
+    display: flex;
+    height: 25px;
+    width: 120px;
+    justify-content: space-between;
+}
+#black {
+    background-color: black;
+    height: 25px;
+    width: 25px;
+}
+#red {
+    background-color: red;
+    height: 25px;
+    width: 25px;
+}
+#blue {
+    background-color: blue;
+    height: 25px;
+    width: 25px;
+}
+#green {
+    background-color: green;
+    height: 25px;
+    width: 25px;
+}
