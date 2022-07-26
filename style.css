@@ -6,8 +6,8 @@ html, body {
 
 #container {
     margin: 100px auto;
-    height: 300px;
-    width: 800px;
+    height: 200px;
+    width: 850px;
     background-color: white;
     display: grid;
 }
@@ -18,3 +18,40 @@ html, body {
     padding: 0;
     margin: 0;
 }
+
+#container-two {
+    margin: -50px auto;
+    height: 80px;
+    width: 850px;
+    background-color: white;
+    display: flex;
+}
+
+/*font family*/
+#fontdiv {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+}
+
+#font-label {
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+#select {
+    height: 25px;
+    width: 100px;
+}
+
+/*Size*/
+/* #fontsize {
+    align-self: center;
+    margin-left: 50px;
+}
+
+#fontsize p {
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+} */
