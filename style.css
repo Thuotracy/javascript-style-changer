@@ -6,7 +6,7 @@ html, body {
 
 #container {
     margin: 100px auto;
-    height: 200px;
+    height: 300px;
     width: 850px;
     background-color: bisque;
     display: grid;
