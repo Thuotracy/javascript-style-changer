@@ -45,7 +45,7 @@ html, body {
 }
 
 /*Size*/
-/* #fontsize {
+#fontsize {
     align-self: center;
     margin-left: 50px;
 }
@@ -54,4 +54,4 @@ html, body {
     margin: 0;
     text-align: center;
     font-weight: bold;
-} */
+}
