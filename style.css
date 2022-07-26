@@ -117,6 +117,26 @@ html, body {
     flex-direction: row;   
 }
 
+#fontweight {
+    align-self: center;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+#fontweight p {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 5px;
+}
+
+
+#div-weight {
+    display: flex;
+    flex-direction: row;   
+}
+
 #light {
     height: 25px;
     width: 50px;
