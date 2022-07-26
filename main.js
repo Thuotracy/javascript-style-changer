@@ -34,3 +34,22 @@ slider.oninput = function(){
     var string = num.toString();
     document.getElementById('paragraph').style.fontSize = num + "px";
 }
+
+// font color
+var black = document.getElementById('black');
+var red = document.getElementById('red');
+var blue = document.getElementById('blue');
+var green = document.getElementById('green');
+
+black.addEventListener('click', function(){
+    paragraph.style.color ='black'
+})
+red.addEventListener('click', function(){
+    paragraph.style.color = 'red'
+})
+blue.addEventListener('click', function(){
+    paragraph.style.color = 'blue'
+})
+green.addEventListener('click', function(){
+    paragraph.style.color = 'green'
+})
