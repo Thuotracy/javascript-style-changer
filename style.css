@@ -1,7 +1,7 @@
 html, body {
     height: 100%;
     margin: 0 auto;
-    background-color: brown;
+    background-color: darkslategrey;
 }
 
 #container {
@@ -23,7 +23,7 @@ html, body {
     margin: -50px auto;
     height: 80px;
     width: 850px;
-    background-color: white;
+    background-color: brown;
     display: flex;
 }
 
@@ -95,4 +95,34 @@ html, body {
     background-color: green;
     height: 25px;
     width: 25px;
+}
+
+/*Font weight*/
+#fontstyle {
+    align-self: center;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+#fontstyle p {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 5px;
+}
+
+#div-style {
+    display: flex;
+    flex-direction: row;   
+}
+
+#light {
+    height: 25px;
+    width: 50px;
+    margin-left: 10px;
+}
+#bold {
+    height: 25px;
+    width: 50px;
 }
