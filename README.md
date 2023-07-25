@@ -1,10 +1,10 @@
 # Javascript-style-changer
 
-#Description
+#  Description
 This is a website that changes CSS styling with JavaScriptt
 
 ## Live link
-https://thuotracy.github.io/food-website/
+https://thuotracy.github.io/javascript-style-changer/
 
 ## Technologies
 * HTML
