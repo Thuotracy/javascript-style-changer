@@ -1,4 +1,4 @@
-# Javascript-style-changer
+# JAVASCRIPT STYLE CHANGER
 
 #  Description
 
