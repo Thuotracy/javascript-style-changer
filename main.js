@@ -1,4 +1,4 @@
-var paragraph = document.getElementById('paragraph');
+// var paragraph = document.getElementById('paragraph');
 
 // font family
 function myFunction(){
